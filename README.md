@@ -1,5 +1,3 @@
-# Acciojob Assignment Solution Template Repo
-
 # Count Trailing Zeros
 
 ### Write a function that takes in a number and returns the number of trailing zeros in its factorial.
